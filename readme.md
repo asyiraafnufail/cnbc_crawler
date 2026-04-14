@@ -4,3 +4,4 @@
 write in mac terminal:
 */2 * * * * /Users/asyiraaf/Documents/Code/Kuliah/cnbc_crawler/venv/bin/python $
 
+![img](ss/mongoss.png)
